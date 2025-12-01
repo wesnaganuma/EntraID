@@ -93,6 +93,7 @@ npm run preview
 ```
 
 **Notas de segurança**
+
 - Não exponha segredos (client secrets) em uma SPA. Use Authorization Code Flow com PKCE via MSAL.js e evite ROPC ou outros fluxos que exijam que credenciais sejam manipuladas no cliente.
 
 
