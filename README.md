@@ -5,7 +5,7 @@ Projeto de demonstração para testar login com Microsoft Entra ID (Azure AD) us
 
 **Início rápido**
 
-1. Copie `.env.example` para `.env` e preencha os valores (ou edite `c:\Users\Naga\Documents\project\EntraID\.env` diretamente):
+1. `.env` e preencha os valores:
 
 ```dotenv
 VITE_CLIENT_ID=seu-client-id
